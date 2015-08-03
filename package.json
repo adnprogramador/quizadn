@@ -7,11 +7,16 @@
     "stop": "pkill --signal SIGINT quiz"
   },
   "engines": {
+<<<<<<< HEAD
     "node": "~0.10.37",
     "npm": "~1.4.28"
   },
   "devDependencies": {
     "sqlite3": "^3.0.9"
+=======
+  	"node": "~0.10.37",
+  	"npm": "~1.4.28"
+>>>>>>> fc703ae50f9041ef075d77b468a7720a887b6277
   },
   "dependencies": {
     "body-parser": "~1.8.1",
